@@ -1,0 +1,9 @@
+{
+  "firebase": "flickering-fire-2121",
+  "public": "AJAX-Practice",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
